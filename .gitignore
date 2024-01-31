@@ -1,0 +1,13 @@
+# Logs
+logs
+*.log
+
+#ignore conflict files
+*.orig
+
+#runtime data
+pids
+*.pid
+*.seed
+
+#
